@@ -1,0 +1,6 @@
+cs:
+  js:
+    login:
+      persona:
+        title: "přes Persona"
+        message: "Autorizuji přes Mozilla Persona (ujistěte se, že nemáte zablokovaná popup okna)"

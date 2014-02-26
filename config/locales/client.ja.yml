@@ -1,0 +1,6 @@
+ja:
+  js:
+    login:
+      persona:
+        title: "with Persona"
+        message: "Persona による認証 (ポップアップがブロックされていないことを確認してください)"

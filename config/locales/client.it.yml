@@ -1,0 +1,6 @@
+it:
+  js:
+    login:
+      persona:
+        title: "con Persona"
+        message: "Autenticazione con Mozilla Persona (l'apertura di pop up deve essere permessa dal browser)"

@@ -1,0 +1,6 @@
+zh_TW:
+  js:
+    login:
+      persona:
+        title: "使用 Persona"
+        message: "使用 Mozilla Persona 認証 (請確定你的網頁瀏覽器未阻擋彈出視窗)"

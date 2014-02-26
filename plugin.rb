@@ -25,9 +25,7 @@ class PersonaAuthenticator < ::Auth::Authenticator
   end
 end
 
-auth_provider title: 'with Persona',
-              message: 'Authenticating with Mozilla Persona (make sure pop up blockers are not enabled)',
-              authenticator: PersonaAuthenticator.new
+auth_provider authenticator: PersonaAuthenticator.new
 
 register_asset "javascripts/persona.js"
 

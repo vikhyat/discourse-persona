@@ -1,0 +1,6 @@
+sv:
+  js:
+    login:
+      persona:
+        title: " med Persona"
+        message: "Autentiserar med Mozilla Persona (kolla så att pop up-blockare inte är aktiverade)"

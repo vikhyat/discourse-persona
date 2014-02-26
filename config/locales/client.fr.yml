@@ -1,0 +1,6 @@
+fr:
+  js:
+    login:
+      persona:
+        title: "via Persona"
+        message: "Authentification via Mozilla Persona (assurez-vous que les popups ne soient pas bloquées)"

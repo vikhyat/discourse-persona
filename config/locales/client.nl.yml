@@ -1,0 +1,6 @@
+nl:
+  js:
+    login:
+      persona:
+        title: met Persona
+        message: "Authenticatie met Mozilla Persona (zorg ervoor dat je popup blocker uit staat)"

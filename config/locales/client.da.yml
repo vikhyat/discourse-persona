@@ -1,0 +1,6 @@
+da:
+  js:
+    login:
+      persona:
+        title: "med Persona"
+        message: "Logger ind med Mozilla Persona (kontrollér at pop-op-blokering ikke er aktiv)"

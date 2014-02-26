@@ -1,0 +1,6 @@
+en:
+  js:
+    login:
+      persona:
+        title: "Persona"
+        message: "Mozilla Persona 인증 중(팝업 차단을 해제 하세요)"

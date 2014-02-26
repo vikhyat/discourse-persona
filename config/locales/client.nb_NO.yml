@@ -1,0 +1,6 @@
+nb_NO:
+  js:
+    login:
+      persona:
+        title: "med Persona"
+        message: "Autentiserer med Mozilla Persona (sørg for at du tillater pop-up vindu)"
