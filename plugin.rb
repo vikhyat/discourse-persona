@@ -35,8 +35,4 @@ register_css <<CSS
   background: #606060 !important;
 }
 
-.btn-social.persona:before {
-  content: "]";
-}
-
 CSS
