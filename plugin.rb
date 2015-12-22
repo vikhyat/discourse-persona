@@ -1,7 +1,8 @@
 # name: discourse-persona
 # about: persona login provider
-# version: 0.1
+# version: 0.2
 # author: Vikhyat Korrapati
+# url: https://github.com/vikhyat/discourse-persona
 
 gem 'omniauth-browserid-discourse', '0.0.2', require_name: 'omniauth-browserid'
 
