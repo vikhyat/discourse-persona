@@ -1,4 +1,6 @@
-Discourse.LoginView.reopen({
+var LoginView = require('discourse/views/login').default;
+
+LoginView.reopen({
   initPersona: function() {
     var readyCalled = false;
     navigator.id.watch({
